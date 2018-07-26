@@ -12,8 +12,8 @@ It can take in one of the following commands:
 
 Technologies Used
 
-Node.js
-Spotify API
-Omdb
-Require
-fs
+* Node.js
+* Spotify API
+* Omdb
+* Require
+* fs
