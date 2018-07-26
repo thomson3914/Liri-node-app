@@ -1,0 +1,523 @@
+______________Music: 1______________
+- Artist(s): Noah Schnacky
+- Song's Name: Hello Beautiful
+- Preview link: https://p.scdn.co/mp3-preview/10a58d5841ccfb4e12cb4651b0b7b7c65b5dfe86?cid=747dcf1095cb4578aa03424f53d21be9
+- Album: Hello Beautiful
+______________Music: 1______________
+______________Music: 2______________
+- Artist(s): Adele
+- Song's Name: Hello
+- Preview link: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=747dcf1095cb4578aa03424f53d21be9
+- Album: 25
+______________Music: 2______________
+______________Music: 3______________
+- Artist(s): Adele
+- Song's Name: Hello
+- Preview link: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=747dcf1095cb4578aa03424f53d21be9
+- Album: Hello
+______________Music: 3______________
+______________Music: 4______________
+- Artist(s): Clairo, Rejjie Snow
+- Song's Name: Hello?
+- Preview link: unavailable
+- Album: diary 001
+______________Music: 4______________
+______________Music: 5______________
+- Artist(s): J. Cole
+- Song's Name: Hello
+- Preview link: https://p.scdn.co/mp3-preview/4b3df43120daf5eea2b2a21502fe2b359ec17d4f?cid=747dcf1095cb4578aa03424f53d21be9
+- Album: 2014 Forest Hills Drive
+______________Music: 5______________
+_____________movie begin________________
+title: Babe
+Year: 1995
+IMDB rating: 6.8
+Rotten Tomatoes rating: 97%
+Country: Australia, USA
+Language : English
+Plot: Babe, a pig raised by sheepdogs, learns to herd sheep with a little help from Farmer Hoggett.
+Actors: Christine Cavanaugh, Miriam Margolyes, Danny Mann, Hugo Weaving
+_____________movie end__________________
+If you haven't listen 'Vasco', then you should
+If you haven't listen 'Vasco', then you should
+_____________movie begin________________
+title: Babe
+Year: 1995
+IMDB rating: 6.8
+Rotten Tomatoes rating: 97%
+Country: Australia, USA
+Language : English
+Plot: Babe, a pig raised by sheepdogs, learns to herd sheep with a little help from Farmer Hoggett.
+Actors: Christine Cavanaugh, Miriam Margolyes, Danny Mann, Hugo Weaving
+_____________movie end__________________
+_____________movie begin________________
+title: Balto
+Year: 1995
+IMDB rating: 7.1
+Rotten Tomatoes rating: 50%
+Country: USA
+Language : English
+Plot: An outcast half-wolf risks his life to prevent a deadly epidemic from ravaging Nome, Alaska.
+Actors: Kevin Bacon, Bob Hoskins, Bridget Fonda, Jim Cummings
+_____________movie end__________________
+_____________movie begin________________
+title: Star
+Year: 2001
+IMDB rating: 7.8
+Rotten Tomatoes rating: not rated.
+Country: USA
+Language : English
+Plot: The Driver now carries an arrogant rock star who is visiting a major city (not Pittsburgh as earlier believed). Played by Madonna, this title character wants to get away from her bodyguards...
+Actors: Clive Owen, Michael Beattie, Toru Tanaka Jr., DTeflon
+_____________movie end__________________
+If you haven't watched 'The Matrix', then you should: <https://www.imdb.com/title/tt0133093/?ref_=fn_tt_tt_1>_____________movie begin________________
+title: The Matrix
+Year: 1999
+IMDB rating: 8.7
+Rotten Tomatoes rating: 87%
+Country: USA
+Language : English
+Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+_____________movie end__________________
+If you haven't watched 'Mr. Nobody', then you should: <http://www.imdb.com/title/tt0485947/> - It's on Netflix_____________movie begin________________
+title: Mr. Nobody
+Year: 2009
+IMDB rating: 7.9
+Rotten Tomatoes rating: 66%
+Country: Belgium, Germany, Canada, France, USA, UK
+Language : English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+_____________movie end__________________
+title: Babe
+Year: 1995
+IMDB rating: 6.8
+Rotten Tomatoes rating: 97%
+Country: Australia, USA
+Language : English
+Plot: Babe, a pig raised by sheepdogs, learns to herd sheep with a little help from Farmer Hoggett.
+Actors: Christine Cavanaugh, Miriam Margolyes, Danny Mann, Hugo Weaving
+If you haven't watched 'Mr. Nobody', then you should: <http://www.imdb.com/title/tt0485947/> - It's on Netflix!title: Mr. Nobody
+Year: 2009
+IMDB rating: 7.9
+Rotten Tomatoes rating: 66%
+Country: Belgium, Germany, Canada, France, USA, UK
+Language : English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+title: Star Wars: Episode IV - A New Hope
+Year: 1977
+IMDB rating: 8.6
+Rotten Tomatoes rating: 93%
+Country: USA
+Language : English
+Plot: Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle-station, while also attempting to rescue Princess Leia from the evil Darth Vader.
+Actors: Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing
+title: Trainspotting
+Year: 1996
+IMDB rating: 8.2
+Rotten Tomatoes rating: 90%
+Country: UK
+Language : English
+Plot: Renton, deeply immersed in the Edinburgh drug scene, tries to clean up and get out, despite the allure of the drugs and influence of friends.
+Actors: Ewan McGregor, Ewen Bremner, Jonny Lee Miller, Kevin McKidd
+title: Trainspotting
+Year: 1996
+IMDB rating: 8.2
+Rotten Tomatoes rating: 90%
+Country: UK
+Language : English
+Plot: Renton, deeply immersed in the Edinburgh drug scene, tries to clean up and get out, despite the allure of the drugs and influence of friends.
+Actors: Ewan McGregor, Ewen Bremner, Jonny Lee Miller, Kevin McKidd
+title: Trainspotting
+Year: 1996
+IMDB rating: 8.2
+Rotten Tomatoes rating: 90%
+Country: UK
+Language : English
+Plot: Renton, deeply immersed in the Edinburgh drug scene, tries to clean up and get out, despite the allure of the drugs and influence of friends.
+Actors: Ewan McGregor, Ewen Bremner, Jonny Lee Miller, Kevin McKidd
+title: Babe
+Year: 1995
+IMDB rating: 6.8
+Rotten Tomatoes rating: 97%
+Country: Australia, USA
+Language : English
+Plot: Babe, a pig raised by sheepdogs, learns to herd sheep with a little help from Farmer Hoggett.
+Actors: Christine Cavanaugh, Miriam Margolyes, Danny Mann, Hugo Weaving
+========================
+title: Blazing Saddles
+Year: 1974
+IMDB rating: 7.8
+Rotten Tomatoes rating: 90%
+Country: USA
+Language : English, Yiddish, German
+Plot: In order to ruin a western town, a corrupt politician appoints a black Sheriff, who promptly becomes his most formidable adversary.
+Actors: Cleavon Little, Gene Wilder, Slim Pickens, Harvey Korman
+========================
+title: Mr. Nobody
+Year: 2009
+IMDB rating: 7.9
+Rotten Tomatoes rating: 66%
+Country: Belgium, Germany, Canada, France, USA, UK
+Language : English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+========================
+macarena[object Object]========================
+Artist(s):	undefined
+Name:		Smells Like Teen Spirit - 1992/Live at Reading
+Preview:	null
+Album:		Live at Reading
+========================
+[object Object]macarenamacarenamacarenamacarenamacarenamacarenamacarenamacarenamacarenamacarenamacarenamacarenateen spirit______________Music: 1______________
+- Artist(s): The Presidents Of The United States Of America
+- Song's Name: Peaches
+- Preview link: https://p.scdn.co/mp3-preview/3aa386ecab622508ed69fbe8efc7923a9ecfdbf2?cid=747dcf1095cb4578aa03424f53d21be9
+- Album: The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition
+______________Music: 1______________
+______________Music: 2______________
+- Artist(s): 112
+- Song's Name: Peaches And Cream
+- Preview link: https://p.scdn.co/mp3-preview/24735540544ed7b6a00866a330177b444cbb43bb?cid=747dcf1095cb4578aa03424f53d21be9
+- Album: Part III
+______________Music: 2______________
+______________Music: 3______________
+- Artist(s): In The Valley Below
+- Song's Name: Peaches
+- Preview link: unavailable
+- Album: The Belt
+______________Music: 3______________
+______________Music: 4______________
+- Artist(s): The Moldy Peaches
+- Song's Name: Anyone Else But You
+- Preview link: https://p.scdn.co/mp3-preview/4ff728a9833f8cddaf6cd7fbb302a5a95ef188f9?cid=747dcf1095cb4578aa03424f53d21be9
+- Album: The Moldy Peaches
+______________Music: 4______________
+______________Music: 5______________
+- Artist(s): Peaches
+- Song's Name: Fuck the Pain Away
+- Preview link: https://p.scdn.co/mp3-preview/4aff3a29c89d2aecefee3f66451f3e6b45300628?cid=747dcf1095cb4578aa03424f53d21be9
+- Album: The Teaches Of Peaches
+______________Music: 5______________
+==========================
+- Artist(s): The Presidents Of The United States Of America
+- Song's Name: Peaches
+- Preview link: https://p.scdn.co/mp3-preview/3aa386ecab622508ed69fbe8efc7923a9ecfdbf2?cid=747dcf1095cb4578aa03424f53d21be9
+- Album: The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition
+==========================
+==========================
+- Artist(s): 112
+- Song's Name: Peaches And Cream
+- Preview link: https://p.scdn.co/mp3-preview/24735540544ed7b6a00866a330177b444cbb43bb?cid=747dcf1095cb4578aa03424f53d21be9
+- Album: Part III
+==========================
+==========================
+- Artist(s): In The Valley Below
+- Song's Name: Peaches
+- Preview link: unavailable
+- Album: The Belt
+==========================
+==========================
+- Artist(s): The Moldy Peaches
+- Song's Name: Anyone Else But You
+- Preview link: https://p.scdn.co/mp3-preview/4ff728a9833f8cddaf6cd7fbb302a5a95ef188f9?cid=747dcf1095cb4578aa03424f53d21be9
+- Album: The Moldy Peaches
+==========================
+==========================
+- Artist(s): Peaches
+- Song's Name: Fuck the Pain Away
+- Preview link: https://p.scdn.co/mp3-preview/4aff3a29c89d2aecefee3f66451f3e6b45300628?cid=747dcf1095cb4578aa03424f53d21be9
+- Album: The Teaches Of Peaches
+==========================
+==========================
+- Artist(s): The Presidents Of The United States Of America
+- Song's Name: Peaches
+- Preview link: https://p.scdn.co/mp3-preview/3aa386ecab622508ed69fbe8efc7923a9ecfdbf2?cid=747dcf1095cb4578aa03424f53d21be9
+- Album: The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition
+==========================
+- Artist(s): 112
+- Song's Name: Peaches And Cream
+- Preview link: https://p.scdn.co/mp3-preview/24735540544ed7b6a00866a330177b444cbb43bb?cid=747dcf1095cb4578aa03424f53d21be9
+- Album: Part III
+==========================
+- Artist(s): In The Valley Below
+- Song's Name: Peaches
+- Preview link: unavailable
+- Album: The Belt
+==========================
+- Artist(s): The Moldy Peaches
+- Song's Name: Anyone Else But You
+- Preview link: https://p.scdn.co/mp3-preview/4ff728a9833f8cddaf6cd7fbb302a5a95ef188f9?cid=747dcf1095cb4578aa03424f53d21be9
+- Album: The Moldy Peaches
+==========================
+- Artist(s): Peaches
+- Song's Name: Fuck the Pain Away
+- Preview link: https://p.scdn.co/mp3-preview/4aff3a29c89d2aecefee3f66451f3e6b45300628?cid=747dcf1095cb4578aa03424f53d21be9
+- Album: The Teaches Of Peaches
+==========================
+- Artist(s): Jeremih, Ty Dolla $ign
+- Song's Name: The Light
+- Preview link: unavailable
+- Album: The Light
+==========================
+- Artist(s): Ty Dolla $ign, Mustard, Wiz Khalifa, The Weeknd
+- Song's Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+- Preview link: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=747dcf1095cb4578aa03424f53d21be9
+- Album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+==========================
+- Artist(s): Harry Styles
+- Song's Name: Sign of the Times
+- Preview link: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=747dcf1095cb4578aa03424f53d21be9
+- Album: Harry Styles
+==========================
+- Artist(s): Ty Dolla $ign, Lil Wayne, The-Dream
+- Song's Name: Love U Better (feat. Lil Wayne & The-Dream)
+- Preview link: https://p.scdn.co/mp3-preview/8917010fb6f1883ff95e85abf35428d98904f29b?cid=747dcf1095cb4578aa03424f53d21be9
+- Album: Beach House 3
+==========================
+- Artist(s): Harry Styles
+- Song's Name: Sign of the Times
+- Preview link: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=747dcf1095cb4578aa03424f53d21be9
+- Album: Sign of the Times
+==========================
+- Artist(s): The Presidents Of The United States Of America
+- Song's Name: Peaches
+- Preview link: https://p.scdn.co/mp3-preview/3aa386ecab622508ed69fbe8efc7923a9ecfdbf2?cid=747dcf1095cb4578aa03424f53d21be9
+- Album: The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition
+==========================
+- Artist(s): 112
+- Song's Name: Peaches And Cream
+- Preview link: https://p.scdn.co/mp3-preview/24735540544ed7b6a00866a330177b444cbb43bb?cid=747dcf1095cb4578aa03424f53d21be9
+- Album: Part III
+==========================
+- Artist(s): In The Valley Below
+- Song's Name: Peaches
+- Preview link: unavailable
+- Album: The Belt
+==========================
+- Artist(s): The Moldy Peaches
+- Song's Name: Anyone Else But You
+- Preview link: https://p.scdn.co/mp3-preview/4ff728a9833f8cddaf6cd7fbb302a5a95ef188f9?cid=747dcf1095cb4578aa03424f53d21be9
+- Album: The Moldy Peaches
+==========================
+- Artist(s): Peaches
+- Song's Name: Fuck the Pain Away
+- Preview link: https://p.scdn.co/mp3-preview/4aff3a29c89d2aecefee3f66451f3e6b45300628?cid=747dcf1095cb4578aa03424f53d21be9
+- Album: The Teaches Of Peaches
+========================
+title: Star Wars: Episode IV - A New Hope
+Year: 1977
+IMDB rating: 8.6
+Rotten Tomatoes rating: 93%
+Country: USA
+Language : English
+Plot: Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle-station, while also attempting to rescue Princess Leia from the evil Darth Vader.
+Actors: Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing
+========================
+========================
+title: Mr. Nobody
+Year: 2009
+IMDB rating: 7.9
+Rotten Tomatoes rating: 66%
+Country: Belgium, Germany, Canada, France, USA, UK
+Language : English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+========================
+==========================
+- Artist(s): Jeremih, Ty Dolla $ign
+- Song's Name: The Light
+- Preview link: unavailable
+- Album: The Light
+==========================
+- Artist(s): Ty Dolla $ign, Mustard, Wiz Khalifa, The Weeknd
+- Song's Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+- Preview link: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=747dcf1095cb4578aa03424f53d21be9
+- Album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+==========================
+- Artist(s): Harry Styles
+- Song's Name: Sign of the Times
+- Preview link: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=747dcf1095cb4578aa03424f53d21be9
+- Album: Harry Styles
+==========================
+- Artist(s): Ty Dolla $ign, Lil Wayne, The-Dream
+- Song's Name: Love U Better (feat. Lil Wayne & The-Dream)
+- Preview link: https://p.scdn.co/mp3-preview/8917010fb6f1883ff95e85abf35428d98904f29b?cid=747dcf1095cb4578aa03424f53d21be9
+- Album: Beach House 3
+==========================
+- Artist(s): Harry Styles
+- Song's Name: Sign of the Times
+- Preview link: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=747dcf1095cb4578aa03424f53d21be9
+- Album: Sign of the Times
+========================
+title: Spiderman
+Year: 1990
+IMDB rating: 5.7
+Rotten Tomatoes rating: not rated.
+Country: Switzerland
+Language : German
+Plot: N/A
+Actors: N/A
+========================
+========================
+title: Mr. Nobody
+Year: 2009
+IMDB rating: 7.9
+Rotten Tomatoes rating: 66%
+Country: Belgium, Germany, Canada, France, USA, UK
+Language : English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+========================
+========================
+title: Star Wars: Episode IV - A New Hope
+Year: 1977
+IMDB rating: 8.6
+Rotten Tomatoes rating: 93%
+Country: USA
+Language : English
+Plot: Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle-station, while also attempting to rescue Princess Leia from the evil Darth Vader.
+Actors: Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing
+========================
+========================
+title: Spiderman
+Year: 1990
+IMDB rating: 5.7
+Rotten Tomatoes rating: not rated.
+Country: Switzerland
+Language : German
+Plot: N/A
+Actors: N/A
+========================
+==========================
+- Artist(s): Nirvana
+- Song's Name: Smells Like Teen Spirit
+- Preview link: unavailable
+- Album: Nevermind (Remastered)
+==========================
+- Artist(s): David Garrett
+- Song's Name: Smells Like Teen Spirit
+- Preview link: unavailable
+- Album: Rock Symphonies
+==========================
+- Artist(s): Nirvana
+- Song's Name: Smells Like Teen Spirit
+- Preview link: unavailable
+- Album: Nevermind
+==========================
+- Artist(s): Nirvana
+- Song's Name: Smells Like Teen Spirit
+- Preview link: unavailable
+- Album: Nirvana
+==========================
+- Artist(s): Nirvana
+- Song's Name: Smells Like Teen Spirit - 1992/Live at Reading
+- Preview link: unavailable
+- Album: Live at Reading
+==========================
+- Artist(s): The Presidents Of The United States Of America
+- Song's Name: Peaches
+- Preview link: https://p.scdn.co/mp3-preview/3aa386ecab622508ed69fbe8efc7923a9ecfdbf2?cid=747dcf1095cb4578aa03424f53d21be9
+- Album: The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition
+==========================
+- Artist(s): 112
+- Song's Name: Peaches And Cream
+- Preview link: https://p.scdn.co/mp3-preview/24735540544ed7b6a00866a330177b444cbb43bb?cid=747dcf1095cb4578aa03424f53d21be9
+- Album: Part III
+==========================
+- Artist(s): In The Valley Below
+- Song's Name: Peaches
+- Preview link: unavailable
+- Album: The Belt
+==========================
+- Artist(s): The Moldy Peaches
+- Song's Name: Anyone Else But You
+- Preview link: https://p.scdn.co/mp3-preview/4ff728a9833f8cddaf6cd7fbb302a5a95ef188f9?cid=747dcf1095cb4578aa03424f53d21be9
+- Album: The Moldy Peaches
+==========================
+- Artist(s): Peaches
+- Song's Name: Fuck the Pain Away
+- Preview link: https://p.scdn.co/mp3-preview/4aff3a29c89d2aecefee3f66451f3e6b45300628?cid=747dcf1095cb4578aa03424f53d21be9
+- Album: The Teaches Of Peaches
+========================
+title: Rogue One: A Star Wars Story
+Year: 2016
+IMDB rating: 7.8
+Rotten Tomatoes rating: 85%
+Country: USA
+Language : English
+Plot: The daughter of an Imperial scientist joins the Rebel Alliance in a risky move to steal the Death Star plans.
+Actors: Felicity Jones, Diego Luna, Alan Tudyk, Donnie Yen
+========================
+==========================
+- Artist(s): The Presidents Of The United States Of America
+- Song's Name: Peaches
+- Preview link: https://p.scdn.co/mp3-preview/3aa386ecab622508ed69fbe8efc7923a9ecfdbf2?cid=747dcf1095cb4578aa03424f53d21be9
+- Album: The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition
+==========================
+- Artist(s): 112
+- Song's Name: Peaches And Cream
+- Preview link: https://p.scdn.co/mp3-preview/24735540544ed7b6a00866a330177b444cbb43bb?cid=747dcf1095cb4578aa03424f53d21be9
+- Album: Part III
+==========================
+- Artist(s): In The Valley Below
+- Song's Name: Peaches
+- Preview link: unavailable
+- Album: The Belt
+==========================
+- Artist(s): The Moldy Peaches
+- Song's Name: Anyone Else But You
+- Preview link: https://p.scdn.co/mp3-preview/4ff728a9833f8cddaf6cd7fbb302a5a95ef188f9?cid=747dcf1095cb4578aa03424f53d21be9
+- Album: The Moldy Peaches
+==========================
+- Artist(s): Peaches
+- Song's Name: Fuck the Pain Away
+- Preview link: https://p.scdn.co/mp3-preview/4aff3a29c89d2aecefee3f66451f3e6b45300628?cid=747dcf1095cb4578aa03424f53d21be9
+- Album: The Teaches Of Peaches
+========================
+title: Elephant
+Year: 2003
+IMDB rating: 7.2
+Rotten Tomatoes rating: 73%
+Country: USA
+Language : English, German
+Plot: Several ordinary high school students go through their daily routine as two others prepare for something more malevolent.
+Actors: Alex Frost, Eric Deulen, John Robinson, Elias McConnell
+========================
+========================
+title: Rogue One: A Star Wars Story
+Year: 2016
+IMDB rating: 7.8
+Rotten Tomatoes rating: 85%
+Country: USA
+Language : English
+Plot: The daughter of an Imperial scientist joins the Rebel Alliance in a risky move to steal the Death Star plans.
+Actors: Felicity Jones, Diego Luna, Alan Tudyk, Donnie Yen
+========================
+==========================
+- Artist(s): The Presidents Of The United States Of America
+- Song's Name: Peaches
+- Preview link: https://p.scdn.co/mp3-preview/3aa386ecab622508ed69fbe8efc7923a9ecfdbf2?cid=747dcf1095cb4578aa03424f53d21be9
+- Album: The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition
+==========================
+- Artist(s): 112
+- Song's Name: Peaches And Cream
+- Preview link: https://p.scdn.co/mp3-preview/24735540544ed7b6a00866a330177b444cbb43bb?cid=747dcf1095cb4578aa03424f53d21be9
+- Album: Part III
+==========================
+- Artist(s): In The Valley Below
+- Song's Name: Peaches
+- Preview link: unavailable
+- Album: The Belt
+==========================
+- Artist(s): The Moldy Peaches
+- Song's Name: Anyone Else But You
+- Preview link: https://p.scdn.co/mp3-preview/4ff728a9833f8cddaf6cd7fbb302a5a95ef188f9?cid=747dcf1095cb4578aa03424f53d21be9
+- Album: The Moldy Peaches
+==========================
+- Artist(s): Peaches
+- Song's Name: Fuck the Pain Away
+- Preview link: https://p.scdn.co/mp3-preview/4aff3a29c89d2aecefee3f66451f3e6b45300628?cid=747dcf1095cb4578aa03424f53d21be9
+- Album: The Teaches Of Peaches
